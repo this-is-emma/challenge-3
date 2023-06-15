@@ -37,7 +37,7 @@ Returns: The current date in the format 'MM/DD/YYYY'.
 ## Example
 
 ```
-const { randomNumber, removeSpaces, todayDate } = require('my-basic-operations-module');
+const { randomNumber, removeSpaces, todayDate } = require('not-so-useless');
 
 const number = randomNumber();
 console.log(number); // 0.8775535436366
