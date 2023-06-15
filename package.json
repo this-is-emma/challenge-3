@@ -1,0 +1,11 @@
+{
+  "name": "not-so-useless",
+  "version": "1.0.0",
+  "description": "A completely useless node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edith Sakatia <edith@email.com>",
+  "license": "ISC"
+}
